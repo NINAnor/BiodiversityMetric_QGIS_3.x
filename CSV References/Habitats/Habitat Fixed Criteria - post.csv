@@ -1,0 +1,132 @@
+Habitat,Proposed UKHAB,Proposed Distinctiveness
+Arable field margins cultivated annually,c1a7,Medium
+Arable field margins game bird mix,c1a8,Medium
+Arable field margins pollen and nectar,c1a6,Medium
+Arable field margins tussocky,c1a,Medium
+Cereal crops,c1c,Low
+Cereal crops other,c1c7,Low
+Winter stubble,c1c5,Low
+Horticulture,c1f,Low
+Intensive orchards,c1e,Low
+Non-cereal crops,c1d,Low
+Temporary grass and clover leys,c1b,Low
+Traditional orchards,21,High
+Bracken,g1c,Low
+Floodplain wetland mosaic and CFGM,NE0011,High
+Lowland calcareous grassland,g2a,High
+Lowland dry acid grassland,g1a,V.High
+Lowland meadows,g3a,V.High
+Modified grassland,g4,Low
+Other lowland acid grassland,g1d,Medium
+Other neutral grassland,g3c,Medium
+Tall herb communities (H6430),s1a9,High
+Upland acid grassland,g1b,Medium
+Upland calcareous grassland,g2b,High
+Upland hay meadows,g3b,V.High
+Blackthorn scrub,h3a,Medium
+Bramble scrub,h3d,Medium
+Gorse scrub,h3e,Medium
+Hawthorn scrub,h3f,Medium
+Hazel scrub,h3b,Medium
+Lowland heathland,h1a,High
+Mixed scrub,h3h,Medium
+Mountain heaths and willow scrub,h1c,V.High
+Rhododendron scrub,h3g,Low
+Dunes with sea buckthorn (H2160),h3c5,High
+Other sea buckthorn scrub,h3c6,Low
+Upland heathland,h1b,High
+Willow scrub,h3j,Medium
+Aquifer fed naturally fluctuating water bodies,r1d,V.High
+Ornamental lake or pond,362,Low
+High alkalinity lakes,NE0001,High
+Low alkalinity lakes,NE0002,High
+Marl lakes,NE0003,High
+Moderate alkalinity lakes,NE0004,High
+Peat lakes,NE0005,High
+Ponds (priority habitat),NE0006,High
+Ponds (non-priority habitat),NE0012,Medium
+Reservoirs,108,Medium
+Temporary lakes ponds and pools (H3170),NE0013,High
+Calaminarian grasslands,s1c,V.High
+Coastal sand dunes,s3a,High
+Coastal vegetated shingle,s3b,High
+Ruderal/Ephemeral,17,Low
+Tall forbs,16,Low
+Inland rock outcrop and scree habitats,s1a,High
+Limestone pavement,s1b,V.High
+Maritime cliff and slopes,s2a,High
+Other inland rock and scree,s1d,Medium
+Allotments,910,Low
+"Artificial unvegetated, unsealed surface",u1c,V.Low
+Bioswale,1191,Low
+Biodiverse green roof,NE0007,Medium
+Built linear features,u1e,V.Low
+Cemeteries and churchyards,800,Medium
+Developed land; sealed surface,u1b,V.Low
+Other green roof,NE0009,Low
+Ground level planters,1140,Low
+Intensive green roof,NE0008,Low
+Introduced shrub,1160,Low
+Open mosaic habitats on previously developed land,u1a,High
+Rain garden,1192,Low
+Actively worked sand pit quarry or open cast mine,1030,Low
+,,
+,,
+Sustainable drainage system,1190,Low
+Unvegetated garden,232,V.Low
+Vacant or derelict land,350,Low
+Bare ground,NE0015,Low
+Vegetated garden,231,Low
+Blanket bog,f1a,V.High
+Depressions on peat substrates (H7150),24,V.High
+Fens (upland and lowland),f2a,V.High
+Lowland raised bog,f1b,V.High
+Oceanic valley mire[1] (D2.1),NE0010,V.High
+Purple moor grass and rush pastures,f2b,V.High
+Reedbeds,f2e,High
+Transition mires and quaking bogs (H7140),f2a8,V.High
+Replacement for felled woodland,53,High
+Lowland beech and yew woodland,w1c,High
+Lowland mixed deciduous woodland,w1f,High
+Native pine woodlands,w2a,High
+Other coniferous woodland,w2c,Low
+Other Scot's pine woodland,w2b,Medium
+Other woodland; broadleaved,w1g,Medium
+Other woodland; mixed,w1h,Medium
+Upland birchwoods,w1e,High
+Upland mixed ashwoods,w1b,High
+Upland oakwood,w1a,High
+Wet woodland,w1d,High
+Wood-pasture and parkland,20,High
+Coastal lagoons,x02,High
+High energy littoral rock,A1.1NE1,High
+"High energy littoral rock - on peat, clay or chalk",A1.1NE2,V.High
+Moderate energy littoral rock,A1.2,High
+"Moderate energy littoral rock - on peat, clay or chalk",A1.2 PCC,V.High
+Low energy littoral rock,A1.3,High
+"Low energy littoral rock - on peat, clay or chalk",A1.3 PCC,V.High
+Features of littoral rock,A1.4,High
+"Features of littoral rock - on peat, clay or chalk",A1.PCC,V.High
+Saltmarshes and saline reedbeds,A2.5,Medium
+Artificial saltmarshes and saline reedbeds,ART_A2.5,High
+Littoral coarse sediment,A2.1,High
+Littoral mud,A2.3,High
+Littoral mixed sediments,A2.4,Low
+Littoral seagrass,A2.6,High
+"Littoral seagrass on peat, clay or chalk",A2.6 PCC,V.High
+Littoral biogenic reefs - Mussels,A2.7 M,High
+Littoral biogenic reefs - Sabellaria,A2.7 S,High
+Features of littoral sediment,A2.8,High
+Artificial littoral coarse sediment,ART_A2.1,Low
+Artificial littoral mud,ART_A2.3,Low
+Artificial littoral sand,ART_A2.21,Low
+Artificial littoral muddy sand,ART_A2.24,Low
+Artificial littoral mixed sediments,ART_A2.4,Low
+Artificial littoral seagrass,ART_A2.6,Low
+Artificial littoral biogenic reefs,ART_A2.7,Low
+Littoral sand,A2.21,Medium
+Littoral muddy sand,A2.24,High
+Artificial hard structures,ART_A1,Low
+Artificial features of hard structures,ART_A1.4,Low
+Artificial hard structures with integrated greening of grey infrastructure (IGGI),ART_A1_IGGI,Medium
+Watercourse footprint,NE0007,V.Low

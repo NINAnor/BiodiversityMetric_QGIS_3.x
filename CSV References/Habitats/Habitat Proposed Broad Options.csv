@@ -1,0 +1,381 @@
+ID,New
+Coastal lagoonsLost,Coastal lagoons
+Coastal lagoonsLost,Coastal saltmarsh
+Coastal lagoonsLost,Cropland
+Coastal lagoonsLost,Grassland
+Coastal lagoonsLost,Heathland and shrub
+Coastal lagoonsLost,Intertidal hard structures
+Coastal lagoonsLost,Intertidal sediment
+Coastal lagoonsLost,Lakes
+Coastal lagoonsLost,Rocky shore
+Coastal lagoonsLost,Sparsely vegetated land
+Coastal lagoonsLost,Urban
+Coastal lagoonsLost,Wetland
+Coastal lagoonsLost,Woodland and forest
+Coastal lagoonsLost,Watercourse footprint
+Coastal saltmarshLost,Coastal lagoons
+Coastal saltmarshLost,Coastal saltmarsh
+Coastal saltmarshLost,Cropland
+Coastal saltmarshLost,Grassland
+Coastal saltmarshLost,Heathland and shrub
+Coastal saltmarshLost,Intertidal hard structures
+Coastal saltmarshLost,Intertidal sediment
+Coastal saltmarshLost,Lakes
+Coastal saltmarshLost,Rocky shore
+Coastal saltmarshLost,Sparsely vegetated land
+Coastal saltmarshLost,Urban
+Coastal saltmarshLost,Wetland
+Coastal saltmarshLost,Woodland and forest
+Coastal saltmarshLost,Watercourse footprint
+CroplandLost,Coastal lagoons
+CroplandLost,Coastal saltmarsh
+CroplandLost,Cropland
+CroplandLost,Grassland
+CroplandLost,Heathland and shrub
+CroplandLost,Intertidal hard structures
+CroplandLost,Intertidal sediment
+CroplandLost,Lakes
+CroplandLost,Rocky shore
+CroplandLost,Sparsely vegetated land
+CroplandLost,Urban
+CroplandLost,Wetland
+CroplandLost,Woodland and forest
+CroplandLost,Watercourse footprint
+GrasslandLost,Coastal lagoons
+GrasslandLost,Coastal saltmarsh
+GrasslandLost,Cropland
+GrasslandLost,Grassland
+GrasslandLost,Heathland and shrub
+GrasslandLost,Intertidal hard structures
+GrasslandLost,Intertidal sediment
+GrasslandLost,Lakes
+GrasslandLost,Rocky shore
+GrasslandLost,Sparsely vegetated land
+GrasslandLost,Urban
+GrasslandLost,Wetland
+GrasslandLost,Woodland and forest
+GrasslandLost,Watercourse footprint
+Heathland and shrubLost,Coastal lagoons
+Heathland and shrubLost,Coastal saltmarsh
+Heathland and shrubLost,Cropland
+Heathland and shrubLost,Grassland
+Heathland and shrubLost,Heathland and shrub
+Heathland and shrubLost,Intertidal hard structures
+Heathland and shrubLost,Intertidal sediment
+Heathland and shrubLost,Lakes
+Heathland and shrubLost,Rocky shore
+Heathland and shrubLost,Sparsely vegetated land
+Heathland and shrubLost,Urban
+Heathland and shrubLost,Wetland
+Heathland and shrubLost,Woodland and forest
+Heathland and shrubLost,Watercourse footprint
+Intertidal hard structuresLost,Coastal lagoons
+Intertidal hard structuresLost,Coastal saltmarsh
+Intertidal hard structuresLost,Cropland
+Intertidal hard structuresLost,Grassland
+Intertidal hard structuresLost,Heathland and shrub
+Intertidal hard structuresLost,Intertidal hard structures
+Intertidal hard structuresLost,Intertidal sediment
+Intertidal hard structuresLost,Lakes
+Intertidal hard structuresLost,Rocky shore
+Intertidal hard structuresLost,Sparsely vegetated land
+Intertidal hard structuresLost,Urban
+Intertidal hard structuresLost,Wetland
+Intertidal hard structuresLost,Woodland and forest
+Intertidal hard structuresLost,Watercourse footprint
+Intertidal sedimentLost,Coastal lagoons
+Intertidal sedimentLost,Coastal saltmarsh
+Intertidal sedimentLost,Cropland
+Intertidal sedimentLost,Grassland
+Intertidal sedimentLost,Heathland and shrub
+Intertidal sedimentLost,Intertidal hard structures
+Intertidal sedimentLost,Intertidal sediment
+Intertidal sedimentLost,Lakes
+Intertidal sedimentLost,Rocky shore
+Intertidal sedimentLost,Sparsely vegetated land
+Intertidal sedimentLost,Urban
+Intertidal sedimentLost,Wetland
+Intertidal sedimentLost,Woodland and forest
+Intertidal sedimentLost,Watercourse footprint
+LakesLost,Coastal lagoons
+LakesLost,Coastal saltmarsh
+LakesLost,Cropland
+LakesLost,Grassland
+LakesLost,Heathland and shrub
+LakesLost,Intertidal hard structures
+LakesLost,Intertidal sediment
+LakesLost,Lakes
+LakesLost,Rocky shore
+LakesLost,Sparsely vegetated land
+LakesLost,Urban
+LakesLost,Wetland
+LakesLost,Woodland and forest
+LakesLost,Watercourse footprint
+Rocky shoreLost,Coastal lagoons
+Rocky shoreLost,Coastal saltmarsh
+Rocky shoreLost,Cropland
+Rocky shoreLost,Grassland
+Rocky shoreLost,Heathland and shrub
+Rocky shoreLost,Intertidal hard structures
+Rocky shoreLost,Intertidal sediment
+Rocky shoreLost,Lakes
+Rocky shoreLost,Rocky shore
+Rocky shoreLost,Sparsely vegetated land
+Rocky shoreLost,Urban
+Rocky shoreLost,Wetland
+Rocky shoreLost,Woodland and forest
+Rocky shoreLost,Watercourse footprint
+Sparsely vegetated landLost,Coastal lagoons
+Sparsely vegetated landLost,Coastal saltmarsh
+Sparsely vegetated landLost,Cropland
+Sparsely vegetated landLost,Grassland
+Sparsely vegetated landLost,Heathland and shrub
+Sparsely vegetated landLost,Intertidal hard structures
+Sparsely vegetated landLost,Intertidal sediment
+Sparsely vegetated landLost,Lakes
+Sparsely vegetated landLost,Rocky shore
+Sparsely vegetated landLost,Sparsely vegetated land
+Sparsely vegetated landLost,Urban
+Sparsely vegetated landLost,Wetland
+Sparsely vegetated landLost,Woodland and forest
+Sparsely vegetated landLost,Watercourse footprint
+UrbanLost,Coastal lagoons
+UrbanLost,Coastal saltmarsh
+UrbanLost,Cropland
+UrbanLost,Grassland
+UrbanLost,Heathland and shrub
+UrbanLost,Intertidal hard structures
+UrbanLost,Intertidal sediment
+UrbanLost,Lakes
+UrbanLost,Rocky shore
+UrbanLost,Sparsely vegetated land
+UrbanLost,Urban
+UrbanLost,Wetland
+UrbanLost,Woodland and forest
+UrbanLost,Watercourse footprint
+WetlandLost,Coastal lagoons
+WetlandLost,Coastal saltmarsh
+WetlandLost,Cropland
+WetlandLost,Grassland
+WetlandLost,Heathland and shrub
+WetlandLost,Intertidal hard structures
+WetlandLost,Intertidal sediment
+WetlandLost,Lakes
+WetlandLost,Rocky shore
+WetlandLost,Sparsely vegetated land
+WetlandLost,Urban
+WetlandLost,Wetland
+WetlandLost,Woodland and forest
+WetlandLost,Watercourse footprint
+Woodland and forestLost,Coastal lagoons
+Woodland and forestLost,Coastal saltmarsh
+Woodland and forestLost,Cropland
+Woodland and forestLost,Grassland
+Woodland and forestLost,Heathland and shrub
+Woodland and forestLost,Intertidal hard structures
+Woodland and forestLost,Intertidal sediment
+Woodland and forestLost,Lakes
+Woodland and forestLost,Rocky shore
+Woodland and forestLost,Sparsely vegetated land
+Woodland and forestLost,Urban
+Woodland and forestLost,Wetland
+Woodland and forestLost,Woodland and forest
+Woodland and forestLost,Watercourse footprint
+Coastal lagoonsRetained,Coastal lagoons
+Coastal saltmarshRetained,Coastal saltmarsh
+CroplandRetained,Cropland
+GrasslandRetained,Grassland
+Heathland and shrubRetained,Heathland and shrub
+Intertidal hard structuresRetained,Intertidal hard structures
+Intertidal sedimentRetained,Intertidal sediment
+LakesRetained,Lakes
+Rocky shoreRetained,Rocky shore
+Sparsely vegetated landRetained,Sparsely vegetated land
+UrbanRetained,Urban
+WetlandRetained,Wetland
+Woodland and forestRetained,Woodland and forest
+Coastal lagoonsEnhanced,Coastal lagoons
+Coastal lagoonsEnhanced,Coastal saltmarsh
+Coastal lagoonsEnhanced,Cropland
+Coastal lagoonsEnhanced,Grassland
+Coastal lagoonsEnhanced,Heathland and shrub
+Coastal lagoonsEnhanced,Intertidal hard structures
+Coastal lagoonsEnhanced,Intertidal sediment
+Coastal lagoonsEnhanced,Lakes
+Coastal lagoonsEnhanced,Rocky shore
+Coastal lagoonsEnhanced,Sparsely vegetated land
+Coastal lagoonsEnhanced,Urban
+Coastal lagoonsEnhanced,Wetland
+Coastal lagoonsEnhanced,Woodland and forest
+Coastal saltmarshEnhanced,Coastal lagoons
+Coastal saltmarshEnhanced,Coastal saltmarsh
+Coastal saltmarshEnhanced,Cropland
+Coastal saltmarshEnhanced,Grassland
+Coastal saltmarshEnhanced,Heathland and shrub
+Coastal saltmarshEnhanced,Intertidal hard structures
+Coastal saltmarshEnhanced,Intertidal sediment
+Coastal saltmarshEnhanced,Lakes
+Coastal saltmarshEnhanced,Rocky shore
+Coastal saltmarshEnhanced,Sparsely vegetated land
+Coastal saltmarshEnhanced,Urban
+Coastal saltmarshEnhanced,Wetland
+Coastal saltmarshEnhanced,Woodland and forest
+CroplandEnhanced,Coastal lagoons
+CroplandEnhanced,Coastal saltmarsh
+CroplandEnhanced,Cropland
+CroplandEnhanced,Grassland
+CroplandEnhanced,Heathland and shrub
+CroplandEnhanced,Intertidal hard structures
+CroplandEnhanced,Intertidal sediment
+CroplandEnhanced,Lakes
+CroplandEnhanced,Rocky shore
+CroplandEnhanced,Sparsely vegetated land
+CroplandEnhanced,Urban
+CroplandEnhanced,Wetland
+CroplandEnhanced,Woodland and forest
+GrasslandEnhanced,Coastal lagoons
+GrasslandEnhanced,Coastal saltmarsh
+GrasslandEnhanced,Cropland
+GrasslandEnhanced,Grassland
+GrasslandEnhanced,Heathland and shrub
+GrasslandEnhanced,Intertidal hard structures
+GrasslandEnhanced,Intertidal sediment
+GrasslandEnhanced,Lakes
+GrasslandEnhanced,Rocky shore
+GrasslandEnhanced,Sparsely vegetated land
+GrasslandEnhanced,Urban
+GrasslandEnhanced,Wetland
+GrasslandEnhanced,Woodland and forest
+Heathland and shrubEnhanced,Coastal lagoons
+Heathland and shrubEnhanced,Coastal saltmarsh
+Heathland and shrubEnhanced,Cropland
+Heathland and shrubEnhanced,Grassland
+Heathland and shrubEnhanced,Heathland and shrub
+Heathland and shrubEnhanced,Intertidal hard structures
+Heathland and shrubEnhanced,Intertidal sediment
+Heathland and shrubEnhanced,Lakes
+Heathland and shrubEnhanced,Rocky shore
+Heathland and shrubEnhanced,Sparsely vegetated land
+Heathland and shrubEnhanced,Urban
+Heathland and shrubEnhanced,Wetland
+Heathland and shrubEnhanced,Woodland and forest
+Intertidal sedimentEnhanced,Coastal lagoons
+Intertidal sedimentEnhanced,Coastal saltmarsh
+Intertidal sedimentEnhanced,Cropland
+Intertidal sedimentEnhanced,Grassland
+Intertidal sedimentEnhanced,Heathland and shrub
+Intertidal sedimentEnhanced,Intertidal hard structures
+Intertidal sedimentEnhanced,Intertidal sediment
+Intertidal sedimentEnhanced,Lakes
+Intertidal sedimentEnhanced,Rocky shore
+Intertidal sedimentEnhanced,Sparsely vegetated land
+Intertidal sedimentEnhanced,Urban
+Intertidal sedimentEnhanced,Wetland
+Intertidal sedimentEnhanced,Woodland and forest
+Intertidal hard structuresEnhanced,Coastal lagoons
+Intertidal hard structuresEnhanced,Coastal saltmarsh
+Intertidal hard structuresEnhanced,Cropland
+Intertidal hard structuresEnhanced,Grassland
+Intertidal hard structuresEnhanced,Heathland and shrub
+Intertidal hard structuresEnhanced,Intertidal hard structures
+Intertidal hard structuresEnhanced,Intertidal sediment
+Intertidal hard structuresEnhanced,Lakes
+Intertidal hard structuresEnhanced,Rocky shore
+Intertidal hard structuresEnhanced,Sparsely vegetated land
+Intertidal hard structuresEnhanced,Urban
+Intertidal hard structuresEnhanced,Wetland
+Intertidal hard structuresEnhanced,Woodland and forest
+LakesEnhanced,Coastal lagoons
+LakesEnhanced,Coastal saltmarsh
+LakesEnhanced,Cropland
+LakesEnhanced,Grassland
+LakesEnhanced,Heathland and shrub
+LakesEnhanced,Intertidal hard structures
+LakesEnhanced,Intertidal sediment
+LakesEnhanced,Lakes
+LakesEnhanced,Rocky shore
+LakesEnhanced,Sparsely vegetated land
+LakesEnhanced,Urban
+LakesEnhanced,Wetland
+LakesEnhanced,Woodland and forest
+Rocky shoreEnhanced,Coastal lagoons
+Rocky shoreEnhanced,Coastal saltmarsh
+Rocky shoreEnhanced,Cropland
+Rocky shoreEnhanced,Grassland
+Rocky shoreEnhanced,Heathland and shrub
+Rocky shoreEnhanced,Intertidal hard structures
+Rocky shoreEnhanced,Intertidal sediment
+Rocky shoreEnhanced,Lakes
+Rocky shoreEnhanced,Rocky shore
+Rocky shoreEnhanced,Sparsely vegetated land
+Rocky shoreEnhanced,Urban
+Rocky shoreEnhanced,Wetland
+Rocky shoreEnhanced,Woodland and forest
+Sparsely vegetated landEnhanced,Coastal lagoons
+Sparsely vegetated landEnhanced,Coastal saltmarsh
+Sparsely vegetated landEnhanced,Cropland
+Sparsely vegetated landEnhanced,Grassland
+Sparsely vegetated landEnhanced,Heathland and shrub
+Sparsely vegetated landEnhanced,Intertidal hard structures
+Sparsely vegetated landEnhanced,Intertidal sediment
+Sparsely vegetated landEnhanced,Lakes
+Sparsely vegetated landEnhanced,Rocky shore
+Sparsely vegetated landEnhanced,Sparsely vegetated land
+Sparsely vegetated landEnhanced,Urban
+Sparsely vegetated landEnhanced,Wetland
+Sparsely vegetated landEnhanced,Woodland and forest
+UrbanEnhanced,Coastal lagoons
+UrbanEnhanced,Coastal saltmarsh
+UrbanEnhanced,Cropland
+UrbanEnhanced,Grassland
+UrbanEnhanced,Heathland and shrub
+UrbanEnhanced,Intertidal hard structures
+UrbanEnhanced,Intertidal sediment
+UrbanEnhanced,Lakes
+UrbanEnhanced,Rocky shore
+UrbanEnhanced,Sparsely vegetated land
+UrbanEnhanced,Urban
+UrbanEnhanced,Wetland
+UrbanEnhanced,Woodland and forest
+WetlandEnhanced,Coastal lagoons
+WetlandEnhanced,Coastal saltmarsh
+WetlandEnhanced,Cropland
+WetlandEnhanced,Grassland
+WetlandEnhanced,Heathland and shrub
+WetlandEnhanced,Intertidal hard structures
+WetlandEnhanced,Intertidal sediment
+WetlandEnhanced,Lakes
+WetlandEnhanced,Rocky shore
+WetlandEnhanced,Sparsely vegetated land
+WetlandEnhanced,Urban
+WetlandEnhanced,Wetland
+WetlandEnhanced,Woodland and forest
+Woodland and forestEnhanced,Coastal lagoons
+Woodland and forestEnhanced,Coastal saltmarsh
+Woodland and forestEnhanced,Cropland
+Woodland and forestEnhanced,Grassland
+Woodland and forestEnhanced,Heathland and shrub
+Woodland and forestEnhanced,Intertidal hard structures
+Woodland and forestEnhanced,Intertidal sediment
+Woodland and forestEnhanced,Lakes
+Woodland and forestEnhanced,Rocky shore
+Woodland and forestEnhanced,Sparsely vegetated land
+Woodland and forestEnhanced,Urban
+Woodland and forestEnhanced,Wetland
+Woodland and forestEnhanced,Woodland and forest
+Watercourse footprintLost,Watercourse footprint
+Watercourse footprintLost,Coastal lagoons
+Watercourse footprintLost,Coastal saltmarsh
+Watercourse footprintLost,Cropland
+Watercourse footprintLost,Grassland
+Watercourse footprintLost,Heathland and shrub
+Watercourse footprintLost,Intertidal hard structures
+Watercourse footprintLost,Intertidal sediment
+Watercourse footprintLost,Lakes
+Watercourse footprintLost,Rocky shore
+Watercourse footprintLost,Sparsely vegetated land
+Watercourse footprintLost,Urban
+Watercourse footprintLost,Wetland
+Watercourse footprintLost,Woodland and forest
+Watercourse footprintRetained,Watercourse footprint
+Watercourse footprintEnhanced,Watercourse footprint

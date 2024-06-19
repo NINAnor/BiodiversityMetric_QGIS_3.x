@@ -1,0 +1,44 @@
+Value,Description,Label
+Canals,Major/Major,1. Major/Major
+Canals,Major/Moderate,1. Major/Moderate
+Canals,Major/Minor,1. Major/Minor
+Canals,Major/No Encroachment,1. Major/No Encroachment
+Ditches,Major/Major,1. Major/Major
+Ditches,Major/Moderate,1. Major/Moderate
+Ditches,Major/Minor,1. Major/Minor
+Ditches,Major/No Encroachment,1. Major/No Encroachment
+Other rivers and streams,Major/Major,1. Major/Major
+Other rivers and streams,Major/Moderate,1. Major/Moderate
+Other rivers and streams,Major/Minor,1. Major/Minor
+Other rivers and streams,Major/No Encroachment,1. Major/No Encroachment
+Priority habitat,Major/Major,1. Major/Major
+Priority habitat,Major/Moderate,1. Major/Moderate
+Priority habitat,Major/Minor,1. Major/Minor
+Priority habitat,Major/No Encroachment,1. Major/No Encroachment
+Canals,Moderate/ Moderate,2. Moderate/ Moderate
+Canals,Moderate/ Minor,2. Moderate/ Minor
+Canals,Moderate/ No Encroachment,2. Moderate/ No Encroachment
+Ditches,Moderate/ Moderate,2. Moderate/ Moderate
+Ditches,Moderate/ Minor,2. Moderate/ Minor
+Ditches,Moderate/ No Encroachment,2. Moderate/ No Encroachment
+Other rivers and streams,Moderate/ Moderate,2. Moderate/ Moderate
+Other rivers and streams,Moderate/ Minor,2. Moderate/ Minor
+Other rivers and streams,Moderate/ No Encroachment,2. Moderate/ No Encroachment
+Priority habitat,Moderate/ Moderate,2. Moderate/ Moderate
+Priority habitat,Moderate/ Minor,2. Moderate/ Minor
+Priority habitat,Moderate/ No Encroachment,2. Moderate/ No Encroachment
+Canals,Minor/ Minor,3. Minor/ Minor
+Canals,Minor/ No Encroachment,3. Minor/ No Encroachment
+Ditches,Minor/ Minor,3. Minor/ Minor
+Ditches,Minor/ No Encroachment,3. Minor/ No Encroachment
+Other rivers and streams,Minor/ Minor,3. Minor/ Minor
+Other rivers and streams,Minor/ No Encroachment,3. Minor/ No Encroachment
+Priority habitat,Minor/ Minor,3. Minor/ Minor
+Priority habitat,Minor/ No Encroachment,3. Minor/ No Encroachment
+Canals,No Encroachment/ No Encroachment,4. No Encroachment/ No Encroachment
+Ditches,No Encroachment/ No Encroachment,4. No Encroachment/ No Encroachment
+Other rivers and streams,No Encroachment/ No Encroachment,4. No Encroachment/ No Encroachment
+Priority habitat,No Encroachment/ No Encroachment,4. No Encroachment/ No Encroachment
+Culvert,N/A - Culvert,1. N/A - Culvert
+To be created,N/A,5. N/A
+N/A,N/A,5. N/A

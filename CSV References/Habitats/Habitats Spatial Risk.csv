@@ -1,0 +1,9 @@
+Base,Description
+On-site,N/A
+Off-site,Compensation inside LPA boundary or NCA of impact site
+Off-site,"Compensation outside LPA or NCA of impact site, but in neighbouring LPA or NCA"
+Off-site,Compensation outside LPA or NCA of impact site and neighbouring LPA or NCA
+Off-site,This metric is being used by an off-site provider
+Off-site,Intertidal habitats - Compensation inside Marine Plan Area of impact site
+Off-site,Intertidal habitats - Compensation outside same Marine Plan Area but in neighbouring Marine Plan Area
+Off-site,Intertidal habitats - Compensation outside Marine Plan Area of impact site and beyond neighbouring Marine Plan Area

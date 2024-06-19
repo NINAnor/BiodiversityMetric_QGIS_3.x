@@ -1,0 +1,6 @@
+Base,Description
+On-site,N/A
+Off-site,Within waterbody catchment
+Off-site,Outside waterbody catchment but within operational catchment
+Off-site,Outside operational catchment
+Off-site,This metric is being used by an off-site provider
