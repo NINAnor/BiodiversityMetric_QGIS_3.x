@@ -33,3 +33,4 @@
     - condition
     - service
     - misc. 
+- Develop a QGIS Plugin to calculate the metric, instead of using the current Excel GIS Import Tool. 
