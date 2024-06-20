@@ -16,8 +16,9 @@
 - QGIS file:
     - renamed to `biodiversity_metric_year_project.qgz`
     - add `comment` field to all attribute forms
+    - add default expressions for `date` and `Mapped by` attributes
     - fix sources with new layer naming convention `xx_xx_xx`
-    - - Add Online Background Layers for Norway (WMS). 
+    - Add Online Background Layers for Norway (WMS). 
     - test upload to QField Cloud (passed!)
 - Vectors:
     - Folder `Layers` renamed to `vector`
